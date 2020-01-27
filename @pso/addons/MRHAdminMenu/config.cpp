@@ -34,6 +34,7 @@ class CfgDebriefing
 		displayName = "MRH Markers";
 		};
 	};
+};
 class cfgMarkers
 {
 		class MRH_Admin_PositionMarker

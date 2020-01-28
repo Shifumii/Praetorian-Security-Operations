@@ -64,7 +64,7 @@ class CfgWeapons {
 			"pso_weapons\data\m249_camo\ammobox_merged_co.paa",
 			"pso_weapons\data\m249_camo\Stock_co.paa"
 		};
-		baseWeapon="RHS_M249_Praetorian"
+		baseWeapon="RHS_M249_Praetorian";
 		rhs_grip1_change="RHS_M249_Praetorian_vfg1";
 		rhs_grip2_change="RHS_M249_Praetorian_vfg2";
 		rhs_grip3_change="RHS_M249_Praetorian_vfg3";

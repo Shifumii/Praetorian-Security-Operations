@@ -33,7 +33,7 @@ class CfgVehicles
 		author = "CUP / Retextured by Corey";
 		displayName = "UH60M Transport Black PSO";
 		DLC = "";
-		hiddenSelectionsTextures[] = {"pso_cup_uh60\data\uh60m_fuselage_black_pso_co.paa","pso_cup_uh60\data\uh60m_engine_co.paa","pso_cup_uh60\data\default_co.paa"};
+		hiddenSelectionsTextures[] = {"pso_cup_uh60\paa\uh60m_fuselage_black_pso_co.paa","pso_cup_uh60\paa\uh60m_engine_co.paa","pso_cup_uh60\paa\default_co.paa"};
 	};
 	
 };

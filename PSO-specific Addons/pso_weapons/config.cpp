@@ -109,7 +109,7 @@ class RHS_M249_Praetorian_Weathered: rhs_weap_m249_pip_S
 			"pso_weapons\data\m249_camo\ammobox_merged_weathered_co.paa",
 			"pso_weapons\data\m249_camo\Stock_weathered_co.paa"
 		};
-		baseWeapon="RHS_M249_Praetorian_Weathered"
+		baseWeapon="RHS_M249_Praetorian_Weathered";
 		rhs_grip1_change="RHS_M249_Praetorian_Weathered_vfg1";
 		rhs_grip2_change="RHS_M249_Praetorian_Weathered_vfg2";
 		rhs_grip3_change="RHS_M249_Praetorian_Weathered_vfg3";

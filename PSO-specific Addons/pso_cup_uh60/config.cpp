@@ -25,7 +25,8 @@ class CfgVehicles
 	class CUP_B_UH60M_Unarmed_US;
 	class CUP_B_UH60M_US;
 	
-	class CUP_B_UH60M_Unarmed_US_Black_PSO: CUP_B_UH60M_Unarmed_US {
+	class CUP_B_UH60M_Unarmed_US_Black_PSO: CUP_B_UH60M_Unarmed_US
+	{
 		scope = 2;
 		scopeArsenal = 2;
 		scopeCurator = 2;
